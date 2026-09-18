@@ -1,8 +1,8 @@
-<p align="center"><a href="https://mateusfb-ai.vercel.app"><img src=".github/brand/lockup.svg" height="40" alt="mateusfb.ai"></a></p>
+<p align="center"><a href="https://mateusfb.com"><img src=".github/brand/lockup.svg" height="40" alt="mateusfb.ai"></a></p>
 
 <p align="center"><strong>Building tools, agents and content with AI. Shipped in public.</strong></p>
 
-<p align="center"><a href="https://mateusfb-ai.vercel.app">mateusfb-ai.vercel.app</a> · <a href="https://mateusfb-ai.vercel.app/en/writing">writing</a> · <a href="mailto:spykocontato@gmail.com">email</a></p>
+<p align="center"><a href="https://mateusfb.com">mateusfb.com</a> · <a href="https://mateusfb.com/en/writing">writing</a> · <a href="mailto:spykocontato@gmail.com">email</a></p>
 
 ---
 
